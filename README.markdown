@@ -9,3 +9,7 @@ By taking advantage of [WiPFlash](http://code.google.com/p/wipflash/) together w
 This is an example of how to get started.
 
 [WiPFlash](http://code.google.com/p/wipflash/) has been created and maintained by [Liz Keogh](http://lizkeogh.com/)
+
+## Executing
+To execute the cucumber features, you need to use 
+	<code>ir -S cucumber features</code>
