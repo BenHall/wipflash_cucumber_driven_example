@@ -12,4 +12,4 @@ This is an example of how to get started.
 
 ## Executing
 To execute the cucumber features, you need to use 
-	<code>ir -S cucumber features</code>
+	ir -S cucumber features
