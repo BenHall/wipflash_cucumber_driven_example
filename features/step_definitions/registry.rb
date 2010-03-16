@@ -18,7 +18,7 @@ Given /^eats "([^\"]*)"$/ do |food_type|
   combo.select("PetFood[#{food_type}]")
 end
 
-When /^I click save$/ do
+When /^I save the product$/ do
   button = @main_window.find_Button "petSaveButton"
   button.click
   sleep(1)
